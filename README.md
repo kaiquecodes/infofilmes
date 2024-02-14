@@ -42,11 +42,7 @@ Telas     | - | -
 
 <a href="https://www.youtube.com/watch?v=ycpnm5U7I_g" target="_blank">Ver Vídeo</a>
 
-## Apk
 
-Caso haja algum problema na execução, baixe o apk no link abaixo:
-
-<https://drive.google.com/file/d/1oyLjGEUXUTy9___lbbMDXhuv8HRYThw3/view?usp=sharing>
 
 
 
